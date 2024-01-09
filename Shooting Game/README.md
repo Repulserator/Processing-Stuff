@@ -6,6 +6,8 @@ So hence the 2nd file. I was able to establish a connection and replicate action
 No plans to develop it further.
 <br></br>
 
+![picture 1](./picture.png)
+
 I made this because i loved that old game and it was my way of learning processing
 
 
