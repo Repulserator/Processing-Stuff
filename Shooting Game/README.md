@@ -8,6 +8,9 @@ No plans to develop it further.
 
 ![picture 1](./picture.png)
 
+### How to
+Two files in the lan folder are made to be run together, once being the sender and one being the reciever. \
+
 I made this because i loved that old game and it was my way of learning processing
 
 
