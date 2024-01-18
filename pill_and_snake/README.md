@@ -1,6 +1,6 @@
 ### Pill and Snake
 
-A 2 player game made on processing. A kind of spin off of a snake game.\
+A 2 player game made on processing. A kind of spin off of a snake game.
 
 
 #### Instructions
