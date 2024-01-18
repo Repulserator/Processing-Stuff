@@ -77,6 +77,6 @@ void draw() {
 
   textSize(15);
   fill(255);
-  text("Anuya: "+player.score, 0, 20);
-  text("Kaustubh: "+player2.score, 0, 40);
+  text("PinkPanther: "+player.score, 0, 20);
+  text("Repulserator: "+player2.score, 0, 40);
 }
