@@ -9,8 +9,8 @@ No plans to develop it further.
 ![picture 1](./picture.png)
 
 ### How to
-Two files in the lan folder are made to be run together, once being the sender and one being the reciever.
-
+Two files in the lan folder are made to be run together, once being the sender and one being the reciever.\
+The singple player version is where i tested everything else about the game.\
 I made this because i loved that old game and it was my way of learning processing
 
 
