@@ -20,10 +20,16 @@ void setup()
 
 
 
+//==================== Your Concern =====================//
+String myText = "Y O U"; //Change to whatever name you wish John,Doe etc
+int xCoordinate = 710;   //Incase changing the name messes up the position, fix it as you wish
+int yCoordinate = 890;
+//=======================================================//
+
+
+
+
 boolean lordritu = false;   //:)
-
-
-
 int x, y, z, a, b, c, d, e, f, g, h, i, j, k, l ;
 float p=255;
 float m=0;
@@ -39,39 +45,13 @@ void draw()
 {
   
   backgrounth();
-  
-  //if(o>1299)
-  //{
-  //  o=0;
-  //}
-  
-  //if(time-interval==0)
-  //{
-  //o=o+20;
-  //time=0;
-  //}
-  
-  //pushMatrix();
-  //if (lordritu == true)
-  //{
-  //  fill(255);
-  //  for (m=0; m<601; m=m+20)
-  //  {
-  //    rect(o+n, m, 20, 20);
-  //  }
-  //}
 
-
-  //popMatrix(); 
   
   pushMatrix(); 
   translate(320,260);
   translate(240, 0); 
   happy(); 
   popMatrix(); 
-
-
-
 
 
   pushMatrix(); 
@@ -100,7 +80,7 @@ void draw()
   {  
   //font = loadFont("FuturaNDAlt-Bold-48.vlw");
   textFont(mono);
-  text("Y O U ;)",900, 860);
+  text(myText, xCoordinate, yCoordinate);
   }
   popMatrix();
 }
@@ -157,21 +137,6 @@ void vlines(int i, int j)
     rect(i, x+j, 20, 20);
   }
 }
-
-//void slant(int k, int l)
-//{
-
-//  pushMatrix();
-//  translate(-100,245);
-//  rotate(-PI/6);
-//  for(x=0; x<61; x=x+20)
-//  {
-//    fill(0);
-//    rect(k,x+l,20,20);
-//  }  
-//  popMatrix();
-
-//}
 
 
 
