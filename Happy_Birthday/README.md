@@ -10,8 +10,22 @@ Worked well.
 
 
 
-!["picture"](.data/output.gif)
+!["picture"](./data/pic1.png)
 
-!["The gif to be played"](.data/output.gif)
+<br></br>
+Wait for it.....
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+Waait for it.....
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+!["The gif to be played"](./data/output.gif)
 
 
